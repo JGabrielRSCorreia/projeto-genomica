@@ -1,0 +1,8 @@
+# ignorar dados brutos
+dados_brutos/**
+
+# ignorar logs
+logs/**
+./**.log
+
+
